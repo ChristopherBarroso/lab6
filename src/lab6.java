@@ -14,8 +14,8 @@ public class lab6 {
         System.out.print("\nNumber 2: ");
         number2 = scnr.nextInt();
 
-        result = number1 + number2;
-        System.out.println("\nThe sum is: " + result);
+        result = number1 - number2;
+        System.out.println("\nThe difference is: " + result);
     }
 
 }
